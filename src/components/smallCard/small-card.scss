@@ -1,0 +1,18 @@
+.c-small-card-wrapper {
+  background: #ffffff;
+  padding: 20px 24px 8px;
+
+  .c-small-card {
+    position: relative;
+
+    .c-small-card-content{
+      min-height: 90px;
+    }
+
+    .c-small-card-footer{
+      font-size: 12px;
+      border-top: 1px solid #dedede;
+      padding-top: 8px;
+    }
+  }
+}
