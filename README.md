@@ -1,5 +1,5 @@
-# :lemon: Lemon系统
-> lemon系统
+# :name: react-admin
+> react-admin
 
 ### 快速开始
 ### 安装
